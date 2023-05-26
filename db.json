@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Новость 1",
+      "data": "Что то про политику",
+      "background": "linear-gradient(229.99deg, #ffffff -26%, #000000 145%)"
+    },
+    {
+      "id": 2,
+      "title": "Новость 2",
+      "data": "Что то про погоду",
+      "background": "linear-gradient(215.32deg, #f90306 -1%, #9e0706 124%)"
+    },
+    {
+      "id": 3,
+      "title": "Новость 3",
+      "data": "Что то про спорт",
+      "background": "linear-gradient(220.16deg, #ffe101 -8%, #f39102 138%)"
+    },
+    {
+      "id": 4,
+      "title": "Новость 4",
+      "data": "Что то про Сириус",
+      "background": "linear-gradient(229.99deg, #11dee9 -26%, #017e8b 145%)"
+    },
+    {
+      "title": "Тест1",
+      "data": "Добавил rtk на админа для новостей. Пробую",
+      "background": "green",
+      "id": 5
+    },
+    {
+      "title": "тест2",
+      "data": "Работает. Теперь нужно починить слайдер",
+      "background": "green",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
